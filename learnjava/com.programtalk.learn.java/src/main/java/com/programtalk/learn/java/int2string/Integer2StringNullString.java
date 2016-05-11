@@ -1,6 +1,6 @@
 package com.programtalk.learn.java.int2string;
 
-public class Int2String {
+public class Integer2StringNullString {
 
 	public static void main(String[] args) {
 		Integer intValue = null;
