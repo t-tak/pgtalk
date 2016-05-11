@@ -1,2 +1,3 @@
 # pgtalk
-repository for tutorials
+Repository for tutorials http://programtalk.com/
+
